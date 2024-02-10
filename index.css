@@ -7,7 +7,9 @@
     margin: 0;
     font-family: Arial;
 }
-
+section {
+    overflow : hidden;
+    }
 .bouttonpage {
     height: 50px;
     width: 50px;
