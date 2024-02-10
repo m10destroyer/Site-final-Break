@@ -618,7 +618,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-top : 10px;
+    gap : 10px;
 }
 
 .important a {
