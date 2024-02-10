@@ -706,6 +706,9 @@ a.active,a:hover{
         height: 230px;
         left: 70%;
     }
+     .important {
+        gap : 10px;
+    }
 }
 
 
@@ -821,6 +824,9 @@ a.active,a:hover{
     }
     .container-maps iframe {
         height: 100%;
+    }
+     .important {
+        gap : 10px;
     }
 
 
@@ -1095,6 +1101,7 @@ a.active,a:hover{
     }
     .important {
         padding-top: 10px;
+        gap : 10px;
     }
 }
 @media screen and (min-width: 320px) and (max-width: 480px) {
