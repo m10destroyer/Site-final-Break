@@ -39,7 +39,7 @@ body {
 
 .video {
     height: 100%;
-    width : auto;
+    width : 100%;
     position: fixed;
     opacity: 0.33;
 }
